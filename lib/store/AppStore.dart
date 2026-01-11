@@ -22,7 +22,7 @@ import 'package:flutter_viz/widgetsClass/root_view_class.dart';
 import 'package:flutter_viz/widgetsClass/row_class.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_treeview/flutter_treeview.dart';
+import 'package:flutter_treeview2/flutter_treeview2.dart';
 import 'package:mobx/mobx.dart';
 import 'package:nb_utils/nb_utils.dart';
 

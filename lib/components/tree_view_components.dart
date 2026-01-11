@@ -6,7 +6,7 @@ import 'package:flutter_viz/utils/AppWidget.dart';
 import 'package:flutter_viz/widgets/right_click_menu_items.dart';
 import 'package:flutter_viz/widgetsProperty/comman_property_view.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_treeview/flutter_treeview.dart';
+import 'package:flutter_treeview2/flutter_treeview2.dart';
 import 'package:nb_utils/nb_utils.dart';
 
 import '../main.dart';

@@ -18,7 +18,7 @@ dependencies:
   mobx: ^2.5.0
   flutter_mobx: ^2.3.0
   intl: ^0.20.2
-  flutter_treeview: ^1.0.7+1
+  flutter_treeview2: ^1.0.0+2
   animated_tree_view: ^2.3.0
   flutter_speed_dial: ^7.0.0
   reorderables: ^0.6.0
@@ -35,7 +35,7 @@ dependencies:
   firebase_analytics: ^11.5.0
   lottie: ^3.3.1
   get_it: ^8.0.3
-  fl_chart: ^1.0.0
+  fl_chart: 1.0.0
   flutter_dotenv: ^5.2.1
   web: ^1.1.1
 

@@ -26,7 +26,7 @@ Map<String, String> buildHeaderTokens() {
 
 Uri buildBaseUrl(String endPoint) {
   Uri url = Uri.parse(endPoint);
-  if (!endPoint.startsWith('http')) url = Uri.parse('$baseURl$endPoint');
+  if (!endPoint.startsWith('http')) url = Uri.parse('$baseURL$endPoint');
   return url;
 }
 

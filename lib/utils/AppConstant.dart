@@ -2,7 +2,7 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 const String appName = "FlutterViz BETA";
 const font = "Inter";
-final baseURl = dotenv.env['BASE_URl'];
+final baseURL = dotenv.env['BASE_URL'];
 
 const VERSION_NAME = '0.9.0';
 
